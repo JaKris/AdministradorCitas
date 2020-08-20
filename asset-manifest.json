@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdministradorCitas/static/css/main.4c798faf.chunk.css",
+    "main.js": "/AdministradorCitas/static/js/main.680b21e4.chunk.js",
+    "main.js.map": "/AdministradorCitas/static/js/main.680b21e4.chunk.js.map",
+    "runtime-main.js": "/AdministradorCitas/static/js/runtime-main.2183898f.js",
+    "runtime-main.js.map": "/AdministradorCitas/static/js/runtime-main.2183898f.js.map",
+    "static/js/2.cb745f93.chunk.js": "/AdministradorCitas/static/js/2.cb745f93.chunk.js",
+    "static/js/2.cb745f93.chunk.js.map": "/AdministradorCitas/static/js/2.cb745f93.chunk.js.map",
+    "index.html": "/AdministradorCitas/index.html",
+    "precache-manifest.e6657c3e8a68ab3a11c631b771f97769.js": "/AdministradorCitas/precache-manifest.e6657c3e8a68ab3a11c631b771f97769.js",
+    "service-worker.js": "/AdministradorCitas/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/AdministradorCitas/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.cb745f93.chunk.js.LICENSE.txt": "/AdministradorCitas/static/js/2.cb745f93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2183898f.js",
+    "static/js/2.cb745f93.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.680b21e4.chunk.js"
+  ]
+}
